@@ -10,5 +10,5 @@ def flatListHere(ls):
             lsNew.append(i)
 flatListHere(ls)
 print(lsNew)
-#Vipul Litoriya
+#Manu Litoriya
 print("Done")
